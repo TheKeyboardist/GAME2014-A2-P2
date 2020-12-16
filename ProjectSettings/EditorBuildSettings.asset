@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/PreScene.unity
+    guid: 8a4c17472abfc440f8326a3dfc42dc30
+  - enabled: 1
+    path: Assets/_Scenes/MainMenuScreen.unity
+    guid: f635b246b6eb04f6283e83c5442650c9
+  - enabled: 1
+    path: Assets/_Scenes/Platformer.unity
+    guid: 81c62290be3520841a6c9611a383443c
+  - enabled: 1
+    path: Assets/_Scenes/HowToPlayScreen.unity
+    guid: ac690900ad3cc4f1990a30280462a3aa
+  - enabled: 1
+    path: Assets/_Scenes/End.unity
+    guid: c2fe0fea8c607db40a5217fa652309ac
+  m_configObjects: {}
